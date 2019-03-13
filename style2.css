@@ -1,0 +1,39 @@
+.wrap{
+	text-align:center;
+	color:black;
+	font-size:25px;
+}
+
+.exam {
+    width: 25%;
+}
+.exam2{
+	width: 20%;
+}
+
+
+.header{
+	margin-left:20px;   
+
+}
+.contenttt{
+	display:flex;
+	font-size: 13px;
+}
+.para{
+	margin-left:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
